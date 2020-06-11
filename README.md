@@ -1,0 +1,4 @@
+# pedestrian-recognition-and-distance-estimation
+项目包括两部分代码，基于MTCNN+双目定位的方法和基于YOLOV3+深度学习定位的方法。
+其中基于MTCNN+双目定位的代码因为完整部分在实验室的电脑上面，这里面只包含双目标定的文件和程序运行的主文件（detect.py）
+基于YOLOV3+深度学习定位的各文件作用描述在其文件夹下的readme文件
