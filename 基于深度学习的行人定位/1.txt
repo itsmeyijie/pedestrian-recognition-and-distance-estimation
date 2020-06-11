@@ -1,0 +1,5 @@
+1.使用
+python generate-csv.py --input=original_data/train_annots --output=annotations.csv
+生成数据及标注  (仅仅使用了KITTI已有标注的数据集，再在此基础上分为训练集和测试集)
+2.执行 generate-depth-annotations.py函数，生成90%训练集 ，10%测试集
+3.
